@@ -22,7 +22,7 @@ A flask API that contains an AI model for predicting flood heights.
 # How does it work:
 
 
-1.This API only has a POST request that should receive a dictionary (in JSON format) in the route '/predict'
+1.This API only has a POST request that should receive a dictionary (in JSON format) in the route '/predict' or url http://127.0.0.1:5000/predict
 
 The format of the dictionary should be {"H_Init": number, "R_Intensity": number}
 
