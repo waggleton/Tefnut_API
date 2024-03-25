@@ -1,7 +1,7 @@
 # Tefnut_API
 A flask API that contains an AI model for predicting flood.
 
-Setup:
+#Setup:
 1.Install required modules by typing and entering:
 -pip install flask
 -pip install joblib
